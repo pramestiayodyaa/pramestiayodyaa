@@ -1,16 +1,25 @@
-Ayodya Pramesti Aulia
+# Biodata
 
-<!--
-**pramestiayodyaa/pramestiayodyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Personal Information
+- **Name:** Your Name
+- **Date of Birth:** Your DOB
+- **Location:** Your City, Country
 
-Here are some ideas to get you started:
+## Education
+- Bachelor's in Computer Science, University Name, Year
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Programming Languages: Java, Python
+- Web Development: HTML, CSS, JavaScript
+- ...
+
+## Projects
+- Project 1: [Project Name 1](link_to_project_1)
+- Project 2: [Project Name 2](link_to_project_2)
+- ...
+
+## Contact
+- Email: your.email@example.com
+- LinkedIn: [Your LinkedIn Profile](link_to_linkedin)
+- ...
+
