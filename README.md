@@ -1,9 +1,9 @@
 # Biodata
 
 ## Personal Information
-- **Name:** Your Name
-- **Date of Birth:** Your DOB
-- **Location:** Your City, Country
+- **Name: Ayodya Pramesti Aulia
+- **Date of Birth:** 12 Juli 2007
+- **Location: location unknow
 
 ## Education
 - Bachelor's in Computer Science, University Name, Year
