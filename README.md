@@ -1,9 +1,9 @@
 # Biodata
 
 ## Personal Information
-- **Name: Ayodya Pramesti Aulia
-- **Date of Birth:** 12 Juli 2007
-- **Location: location unknow
+- **Name:** Ayodya Pramesti Aulia
+- **Date of Birth:** 12 July
+- **Location:** Wonosobo pride
 
 ## Education
 - Bachelor's in Computer Science, University Name, Year
